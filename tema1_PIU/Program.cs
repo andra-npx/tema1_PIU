@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int oreLucrate = 0;
             double tarifOra = 0;
